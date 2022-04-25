@@ -11,7 +11,7 @@
 
 body{
     background: var(--preta);
-    font-family: 'Arial,'times New Roman, Times;
+    font-family: Arial,'times New Roman', Times;
     color: white;
 }
 
@@ -46,13 +46,13 @@ header .logo{
 
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/capa-vis.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/netflix clone/img/capa-vis.jpg');
     height: 700px;
-    background-size:cover;
+    background-size: cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: flex-start;
+    align-items:flex-start;
 }
 
 .descricao{
@@ -70,7 +70,6 @@ header .logo{
 
 .botao1{
     background-color: rgba(0,0,0, 0.50);
-    
     padding: 10px 25px;
     border-radius: 5px;
     font-size: 18px;
