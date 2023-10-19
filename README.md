@@ -1,3 +1,3 @@
-# Clone Netflix
+# Netflix Clone
 
-### Olá, Bem vindo ao meu projeto de clone da netflix, neste projeto eu recriei a estrutura da netflix usando html,css e javascript, não é funcional para assistir séries ou filmes pois é sómente um protótipo criado como uma demonstração :) 
+In this project, I recreated the structure of Netflix using HTML, CSS, and JavaScript. It is not functional for watching series or movies, as it is only a prototype created as a demonstration.
